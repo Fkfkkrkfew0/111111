@@ -1,0 +1,4 @@
+onDgsMouseClick
+DGS:dgs
+onDgsMouseComboBoxAccepted
+onDgsMouseTabSwitched
